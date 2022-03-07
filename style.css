@@ -1,0 +1,62 @@
+body{
+    background: url(./ing/5ec56724cde3c48fd161d58fce4845f9.jpg);
+    background-size: cover;
+}
+#block{
+    width: 700px;
+    height: 400px;
+    background: url(./ing/1540699419-12.jpg);
+    background-size: cover;
+    margin: 0 auto;
+    text-align: center;
+}
+#text{
+    padding: 20px 50px;
+    border-bottom: 1px solid #000;
+    width: 300px;
+    margin: 0 auto;
+    color: rgb(37, 92, 55);
+}
+#vvod{
+    background-color: rgb(51, 14, 14);
+    opacity: .7;
+    outline: none;
+    border: none;
+    box-shadow: 0 0 15px black;
+    margin-top: 10px;
+    padding: 12px 40px;
+    color: white;
+    
+}
+#plot{
+    width: 600px;
+    height: 220px;
+    border: 1px solid black;
+    margin: 10px auto;
+    /* overflow: hidden; */
+}
+#btn_up button{
+    background-color: rgba(104, 103, 73, 0.678);
+    border-radius: 10px;
+    padding: 7px 15px;
+    border: 1px solid white;
+    color: white;
+}
+#min{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    opacity: 0;
+    transition: all .4s linear;
+    /* background-color: aquamarine; */
+    background: url(./ing/horse_PNG2523.png);
+    background-size: cover;
+    position: relative;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+}
+#start{
+    margin-right: 50px;
+}
